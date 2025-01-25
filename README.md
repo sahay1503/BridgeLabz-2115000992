@@ -29,6 +29,7 @@
 * Practiced problem based on level 1 and read about the best programming practices how should we name the variable and do not write hard code,and many more.
 * Practiced problem based on level 2 Questions.
 * Practiced problem based on level 3 Questions.
+<<<<<<< HEAD
  
 ## Task 6: DATE: 25-01-2025
 * Read about C# Arrays and how to access,modify and find length and about multidimensional Arrays.
