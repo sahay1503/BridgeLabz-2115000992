@@ -23,3 +23,15 @@
 * Read about comments,data types, variable naming,operators,operator precedence type conversion and some practice problems.
 * Practiced problem based on level 1 and read about the best programming practices how should we name the variable and do not write hard code,and many more. 
 * Practiced problem based on level 2.
+
+## Task 5: DATE: 23-01-2025
+* Read about C# Control flows, Boolean Expressions, Conditional Statements, loops , break and continue and switch Statements.
+* Practiced problem based on level 1 and read about the best programming practices how should we name the variable and do not write hard code,and many more.
+* Practiced problem based on level 2 Questions.
+* Practiced problem based on level 3 Questions.
+ 
+## Task 6: DATE: 25-01-2025
+* Read about C# Arrays and how to access,modify and find length and about multidimensional Arrays.
+* Practiced problem based on level 1 and read about the best programming practices how should we name the variable and do not write hard code,and many more.
+* Practiced problem based on level 2 Questions.
+ 
