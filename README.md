@@ -46,3 +46,9 @@
 * Practiced problem based on level 1 
 * Read about the best programming practices how should we name the variable and do not write hard code,and many more.
 
+## Task 9: DATE: 29-01-2025
+* Read about C# String Methods and String Handling concepts and read about string Methods
+* Practiced Problem Statements based on String.
+
+
+
