@@ -50,5 +50,10 @@
 * Read about C# String Methods and String Handling concepts and read about string Methods
 * Practiced Problem Statements based on String.
 
+## Task 10: DATE: 30-01-2025
+* Read about C# String Built-in Methods and Read about Exception Handling and its types .
+* Practiced problem based on Type1 based on Built-in functions like DATE and TIME.
+* Practiced problem based on Type2 based on Palindrome, fibonacci,etc.
+
 
 
