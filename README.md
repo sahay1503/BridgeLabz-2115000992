@@ -55,5 +55,8 @@
 * Practiced problem based on Type1 based on Built-in functions like DATE and TIME.
 * Practiced problem based on Type2 based on Palindrome, fibonacci,etc.
 
-
+## Task 11: DATE: 31-01-2025
+* Read about OOPs Overview,Advantages of OOPs and Comparison Between Procedural Programming and OOP.
+* Read about C# Class and and C# Objectand read some Practice Problems Examples.
+* Practiced problem based on OOPs of Class and Object based on Level 1.
 
