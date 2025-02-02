@@ -60,3 +60,6 @@
 * Read about C# Class and and C# Objectand read some Practice Problems Examples.
 * Practiced problem based on OOPs of Class and Object based on Level 1.
 
+## Task 12: DATE: 01-02-2025
+* Read about C# Constructors and instance v/s class Variables and read about access Modifier concepts.
+* Practiced problems based on these concepts based on Level 1.
