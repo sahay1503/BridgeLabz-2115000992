@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\ShoppingCartSystem\obj\Debug\net9.0\ShoppingCartSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\ShoppingCartSystem\obj\Debug\net9.0\ShoppingCartSystem.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\ShoppingCartSystem\obj\Debug\net9.0\ShoppingCartSystem.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\ShoppingCartSystem\obj\Debug\net9.0\ShoppingCartSystem.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\ShoppingCartSystem\bin\Debug\net9.0\ShoppingCartSystem.exe
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\ShoppingCartSystem\bin\Debug\net9.0\ShoppingCartSystem.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\ShoppingCartSystem\bin\Debug\net9.0\ShoppingCartSystem.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\ShoppingCartSystem\bin\Debug\net9.0\ShoppingCartSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\ShoppingCartSystem\bin\Debug\net9.0\ShoppingCartSystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\ShoppingCartSystem\obj\Debug\net9.0\ShoppingCartSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\ShoppingCartSystem\obj\Debug\net9.0\refint\ShoppingCartSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\ShoppingCartSystem\obj\Debug\net9.0\ShoppingCartSystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\ShoppingCartSystem\obj\Debug\net9.0\ShoppingCartSystem.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\ShoppingCartSystem\obj\Debug\net9.0\ref\ShoppingCartSystem.dll

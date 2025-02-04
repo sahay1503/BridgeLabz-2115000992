@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\BankingAccountSystem\bin\Debug\net9.0\BankingAccountSystem.exe
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\BankingAccountSystem\bin\Debug\net9.0\BankingAccountSystem.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\BankingAccountSystem\bin\Debug\net9.0\BankingAccountSystem.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\BankingAccountSystem\bin\Debug\net9.0\BankingAccountSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\BankingAccountSystem\bin\Debug\net9.0\BankingAccountSystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\BankingAccountSystem\obj\Debug\net9.0\BankingAccountSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\BankingAccountSystem\obj\Debug\net9.0\BankingAccountSystem.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\BankingAccountSystem\obj\Debug\net9.0\BankingAccountSystem.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\BankingAccountSystem\obj\Debug\net9.0\BankingAccountSystem.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\BankingAccountSystem\obj\Debug\net9.0\BankingAccountSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\BankingAccountSystem\obj\Debug\net9.0\refint\BankingAccountSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\BankingAccountSystem\obj\Debug\net9.0\BankingAccountSystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\BankingAccountSystem\obj\Debug\net9.0\BankingAccountSystem.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\BankingAccountSystem\obj\Debug\net9.0\ref\BankingAccountSystem.dll

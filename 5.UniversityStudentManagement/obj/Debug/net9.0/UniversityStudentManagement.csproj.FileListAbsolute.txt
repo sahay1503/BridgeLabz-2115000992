@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\UniversityStudentManagement\bin\Debug\net9.0\UniversityStudentManagement.exe
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\UniversityStudentManagement\bin\Debug\net9.0\UniversityStudentManagement.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\UniversityStudentManagement\bin\Debug\net9.0\UniversityStudentManagement.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\UniversityStudentManagement\bin\Debug\net9.0\UniversityStudentManagement.dll
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\UniversityStudentManagement\bin\Debug\net9.0\UniversityStudentManagement.pdb
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\UniversityStudentManagement\obj\Debug\net9.0\UniversityStudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\UniversityStudentManagement\obj\Debug\net9.0\UniversityStudentManagement.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\UniversityStudentManagement\obj\Debug\net9.0\UniversityStudentManagement.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\UniversityStudentManagement\obj\Debug\net9.0\UniversityStudentManagement.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\UniversityStudentManagement\obj\Debug\net9.0\UniversityStudentManagement.dll
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\UniversityStudentManagement\obj\Debug\net9.0\refint\UniversityStudentManagement.dll
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\UniversityStudentManagement\obj\Debug\net9.0\UniversityStudentManagement.pdb
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\UniversityStudentManagement\obj\Debug\net9.0\UniversityStudentManagement.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-04Feb2025\UniversityStudentManagement\obj\Debug\net9.0\ref\UniversityStudentManagement.dll
