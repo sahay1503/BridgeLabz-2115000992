@@ -29,7 +29,7 @@
 * Practiced problem based on level 1 and read about the best programming practices how should we name the variable and do not write hard code,and many more.
 * Practiced problem based on level 2 Questions.
 * Practiced problem based on level 3 Questions.
-<<<<<<< HEAD
+
  
 ## Task 6: DATE: 25-01-2025
 * Read about C# Arrays and how to access,modify and find length and about multidimensional Arrays.
@@ -67,4 +67,9 @@
 ## Task 13: DATE: 03-02-2025
 * Read about C# this keyword and final keyword or say sealed keyword
 * Practiced problems Like Banking Account System and Library Management System.
+
+## Task 14: DATE: 04-02-2025
+* Read about C# constructor and this keyword in detail from dotnet.tutorials .
+* Practiced problems based on the concepts of this and sealed keyword.
+
 
