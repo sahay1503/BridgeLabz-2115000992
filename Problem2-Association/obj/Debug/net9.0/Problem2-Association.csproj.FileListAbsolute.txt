@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem2-Association\bin\Debug\net9.0\Problem2-Association.exe
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem2-Association\bin\Debug\net9.0\Problem2-Association.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem2-Association\bin\Debug\net9.0\Problem2-Association.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem2-Association\bin\Debug\net9.0\Problem2-Association.dll
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem2-Association\bin\Debug\net9.0\Problem2-Association.pdb
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem2-Association\obj\Debug\net9.0\Problem2-Association.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem2-Association\obj\Debug\net9.0\Problem2-Association.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem2-Association\obj\Debug\net9.0\Problem2-Association.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem2-Association\obj\Debug\net9.0\Problem2-Association.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem2-Association\obj\Debug\net9.0\Problem2-Association.dll
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem2-Association\obj\Debug\net9.0\refint\Problem2-Association.dll
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem2-Association\obj\Debug\net9.0\Problem2-Association.pdb
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem2-Association\obj\Debug\net9.0\Problem2-Association.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem2-Association\obj\Debug\net9.0\ref\Problem2-Association.dll

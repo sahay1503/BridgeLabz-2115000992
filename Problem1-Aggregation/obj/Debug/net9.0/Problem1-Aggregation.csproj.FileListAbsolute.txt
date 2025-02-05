@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem1-Aggregation\bin\Debug\net9.0\Problem1-Aggregation.exe
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem1-Aggregation\bin\Debug\net9.0\Problem1-Aggregation.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem1-Aggregation\bin\Debug\net9.0\Problem1-Aggregation.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem1-Aggregation\bin\Debug\net9.0\Problem1-Aggregation.dll
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem1-Aggregation\bin\Debug\net9.0\Problem1-Aggregation.pdb
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem1-Aggregation\obj\Debug\net9.0\Problem1-Aggregation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem1-Aggregation\obj\Debug\net9.0\Problem1-Aggregation.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem1-Aggregation\obj\Debug\net9.0\Problem1-Aggregation.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem1-Aggregation\obj\Debug\net9.0\Problem1-Aggregation.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem1-Aggregation\obj\Debug\net9.0\Problem1-Aggregation.dll
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem1-Aggregation\obj\Debug\net9.0\refint\Problem1-Aggregation.dll
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem1-Aggregation\obj\Debug\net9.0\Problem1-Aggregation.pdb
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem1-Aggregation\obj\Debug\net9.0\Problem1-Aggregation.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem1-Aggregation\obj\Debug\net9.0\ref\Problem1-Aggregation.dll
