@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem7-E-CommercePlatform\bin\Debug\net9.0\Problem7-E-CommercePlatform.exe
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem7-E-CommercePlatform\bin\Debug\net9.0\Problem7-E-CommercePlatform.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem7-E-CommercePlatform\bin\Debug\net9.0\Problem7-E-CommercePlatform.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem7-E-CommercePlatform\bin\Debug\net9.0\Problem7-E-CommercePlatform.dll
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem7-E-CommercePlatform\bin\Debug\net9.0\Problem7-E-CommercePlatform.pdb
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem7-E-CommercePlatform\obj\Debug\net9.0\Problem7-E-CommercePlatform.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem7-E-CommercePlatform\obj\Debug\net9.0\Problem7-E-CommercePlatform.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem7-E-CommercePlatform\obj\Debug\net9.0\Problem7-E-CommercePlatform.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem7-E-CommercePlatform\obj\Debug\net9.0\Problem7-E-CommercePlatform.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem7-E-CommercePlatform\obj\Debug\net9.0\Problem7-E-CommercePlatform.dll
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem7-E-CommercePlatform\obj\Debug\net9.0\refint\Problem7-E-CommercePlatform.dll
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem7-E-CommercePlatform\obj\Debug\net9.0\Problem7-E-CommercePlatform.pdb
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem7-E-CommercePlatform\obj\Debug\net9.0\Problem7-E-CommercePlatform.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem7-E-CommercePlatform\obj\Debug\net9.0\ref\Problem7-E-CommercePlatform.dll
