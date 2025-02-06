@@ -77,3 +77,9 @@
 * Read about  their combinations too like Aggregation with Association and so on.
 * Practiced problems based on the above concepts. 
 
+## Task 16: DATE: 06-02-2025
+* Read about C# OOPs concepts like Class Diagram Sequence Diagram and Object Diagram.
+* And did revision of some topics from dotnet tutorials
+* Practiced problems based on the above concepts.
+
+
