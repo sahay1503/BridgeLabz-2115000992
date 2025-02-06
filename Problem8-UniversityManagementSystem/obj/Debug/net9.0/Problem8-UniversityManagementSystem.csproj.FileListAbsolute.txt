@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem8-UniversityManagementSystem\bin\Debug\net9.0\Problem8-UniversityManagementSystem.exe
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem8-UniversityManagementSystem\bin\Debug\net9.0\Problem8-UniversityManagementSystem.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem8-UniversityManagementSystem\bin\Debug\net9.0\Problem8-UniversityManagementSystem.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem8-UniversityManagementSystem\bin\Debug\net9.0\Problem8-UniversityManagementSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem8-UniversityManagementSystem\bin\Debug\net9.0\Problem8-UniversityManagementSystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem8-UniversityManagementSystem\obj\Debug\net9.0\Problem8-UniversityManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem8-UniversityManagementSystem\obj\Debug\net9.0\Problem8-UniversityManagementSystem.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem8-UniversityManagementSystem\obj\Debug\net9.0\Problem8-UniversityManagementSystem.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem8-UniversityManagementSystem\obj\Debug\net9.0\Problem8-UniversityManagementSystem.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem8-UniversityManagementSystem\obj\Debug\net9.0\Problem8-UniversityManagementSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem8-UniversityManagementSystem\obj\Debug\net9.0\refint\Problem8-UniversityManagementSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem8-UniversityManagementSystem\obj\Debug\net9.0\Problem8-UniversityManagementSystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem8-UniversityManagementSystem\obj\Debug\net9.0\Problem8-UniversityManagementSystem.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem8-UniversityManagementSystem\obj\Debug\net9.0\ref\Problem8-UniversityManagementSystem.dll

@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem6-AssociationAndCommunication\bin\Debug\net9.0\Problem6-AssociationAndCommunication.exe
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem6-AssociationAndCommunication\bin\Debug\net9.0\Problem6-AssociationAndCommunication.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem6-AssociationAndCommunication\bin\Debug\net9.0\Problem6-AssociationAndCommunication.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem6-AssociationAndCommunication\bin\Debug\net9.0\Problem6-AssociationAndCommunication.dll
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem6-AssociationAndCommunication\bin\Debug\net9.0\Problem6-AssociationAndCommunication.pdb
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem6-AssociationAndCommunication\obj\Debug\net9.0\Problem6-AssociationAndCommunication.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem6-AssociationAndCommunication\obj\Debug\net9.0\Problem6-AssociationAndCommunication.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem6-AssociationAndCommunication\obj\Debug\net9.0\Problem6-AssociationAndCommunication.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem6-AssociationAndCommunication\obj\Debug\net9.0\Problem6-AssociationAndCommunication.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem6-AssociationAndCommunication\obj\Debug\net9.0\Problem6-AssociationAndCommunication.dll
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem6-AssociationAndCommunication\obj\Debug\net9.0\refint\Problem6-AssociationAndCommunication.dll
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem6-AssociationAndCommunication\obj\Debug\net9.0\Problem6-AssociationAndCommunication.pdb
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem6-AssociationAndCommunication\obj\Debug\net9.0\Problem6-AssociationAndCommunication.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-05Feb2025\Problem6-AssociationAndCommunication\obj\Debug\net9.0\ref\Problem6-AssociationAndCommunication.dll
