@@ -86,3 +86,7 @@
 * Read about C# Inheritance concepts and its levels of inheritance.
 * And Studied about Polymorphism and interfaces.
 * Practiced problem of assignment.
+
+## Task 18: DATE: 08-02-2025
+* Read about C# Inheritance concepts and interfaces and concepts used in Assignment.
+* Solved practice  problems of Assignment on inheritance.
