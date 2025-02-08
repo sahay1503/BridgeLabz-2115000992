@@ -82,4 +82,7 @@
 * And did revision of some topics from dotnet tutorials
 * Practiced problems based on the above concepts.
 
-
+## Task 17: DATE: 07-02-2025
+* Read about C# Inheritance concepts and its levels of inheritance.
+* And Studied about Polymorphism and interfaces.
+* Practiced problem of assignment.
