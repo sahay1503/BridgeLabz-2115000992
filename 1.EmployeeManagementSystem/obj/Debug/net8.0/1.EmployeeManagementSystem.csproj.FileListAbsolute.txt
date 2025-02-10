@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\1.EmployeeManagementSystem\bin\Debug\net8.0\1.EmployeeManagementSystem.exe
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\1.EmployeeManagementSystem\bin\Debug\net8.0\1.EmployeeManagementSystem.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\1.EmployeeManagementSystem\bin\Debug\net8.0\1.EmployeeManagementSystem.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\1.EmployeeManagementSystem\bin\Debug\net8.0\1.EmployeeManagementSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\1.EmployeeManagementSystem\bin\Debug\net8.0\1.EmployeeManagementSystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\1.EmployeeManagementSystem\obj\Debug\net8.0\1.EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\1.EmployeeManagementSystem\obj\Debug\net8.0\1.EmployeeManagementSystem.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\1.EmployeeManagementSystem\obj\Debug\net8.0\1.EmployeeManagementSystem.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\1.EmployeeManagementSystem\obj\Debug\net8.0\1.EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\1.EmployeeManagementSystem\obj\Debug\net8.0\1.EmployeeManagementSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\1.EmployeeManagementSystem\obj\Debug\net8.0\refint\1.EmployeeManagementSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\1.EmployeeManagementSystem\obj\Debug\net8.0\1.EmployeeManagementSystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\1.EmployeeManagementSystem\obj\Debug\net8.0\1.EmployeeManagementSystem.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\1.EmployeeManagementSystem\obj\Debug\net8.0\ref\1.EmployeeManagementSystem.dll

@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\6.OnlineFoodDeliverySystem\bin\Debug\net9.0\6.OnlineFoodDeliverySystem.exe
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\6.OnlineFoodDeliverySystem\bin\Debug\net9.0\6.OnlineFoodDeliverySystem.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\6.OnlineFoodDeliverySystem\bin\Debug\net9.0\6.OnlineFoodDeliverySystem.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\6.OnlineFoodDeliverySystem\bin\Debug\net9.0\6.OnlineFoodDeliverySystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\6.OnlineFoodDeliverySystem\bin\Debug\net9.0\6.OnlineFoodDeliverySystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\6.OnlineFoodDeliverySystem\obj\Debug\net9.0\6.OnlineFoodDeliverySystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\6.OnlineFoodDeliverySystem\obj\Debug\net9.0\6.OnlineFoodDeliverySystem.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\6.OnlineFoodDeliverySystem\obj\Debug\net9.0\6.OnlineFoodDeliverySystem.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\6.OnlineFoodDeliverySystem\obj\Debug\net9.0\6.OnlineFoodDeliverySystem.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\6.OnlineFoodDeliverySystem\obj\Debug\net9.0\6.OnlineFoodDeliverySystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\6.OnlineFoodDeliverySystem\obj\Debug\net9.0\refint\6.OnlineFoodDeliverySystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\6.OnlineFoodDeliverySystem\obj\Debug\net9.0\6.OnlineFoodDeliverySystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\6.OnlineFoodDeliverySystem\obj\Debug\net9.0\6.OnlineFoodDeliverySystem.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-10Feb2025\6.OnlineFoodDeliverySystem\obj\Debug\net9.0\ref\6.OnlineFoodDeliverySystem.dll

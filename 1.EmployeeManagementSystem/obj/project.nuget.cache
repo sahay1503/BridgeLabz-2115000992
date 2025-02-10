@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pJCIufv5BDw=",
+  "success": true,
+  "projectFilePath": "F:\\Capg- TRAINING\\C# Programmes\\feature-10Feb2025\\1.EmployeeManagementSystem\\1.EmployeeManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
