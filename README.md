@@ -90,3 +90,10 @@
 ## Task 18: DATE: 08-02-2025
 * Read about C# Inheritance concepts and interfaces and concepts used in Assignment.
 * Solved practice  problems of Assignment on inheritance.
+
+## Task 19: DATE: 10-02-2025
+* Read about C# Polymorphism, abstract class and interface.
+* Read about C# Encapsulation.
+* Solved some practice  problems of Assignment on Polymorphism, Encapsulation, interface and abstract class.
+
+
