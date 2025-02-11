@@ -97,3 +97,7 @@
 * Solved some practice  problems of Assignment on Polymorphism, Encapsulation, interface and abstract class.
 
 
+## Task 20: DATE: 11-02-2025
+* Read about C# Data Structures and key features and Types of Data Structure.
+* Read about Introdution of LinkedList and single LinkedList , Double LinkedList and Circular LinkedList.
+* Solved some practice problems based on LinkedList.
