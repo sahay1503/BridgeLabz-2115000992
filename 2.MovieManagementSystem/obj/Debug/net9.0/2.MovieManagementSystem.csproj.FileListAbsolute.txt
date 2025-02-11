@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\2.MovieManagementSystem\obj\Debug\net9.0\2.MovieManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\2.MovieManagementSystem\obj\Debug\net9.0\2.MovieManagementSystem.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\2.MovieManagementSystem\obj\Debug\net9.0\2.MovieManagementSystem.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\2.MovieManagementSystem\obj\Debug\net9.0\2.MovieManagementSystem.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\2.MovieManagementSystem\bin\Debug\net9.0\2.MovieManagementSystem.exe
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\2.MovieManagementSystem\bin\Debug\net9.0\2.MovieManagementSystem.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\2.MovieManagementSystem\bin\Debug\net9.0\2.MovieManagementSystem.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\2.MovieManagementSystem\bin\Debug\net9.0\2.MovieManagementSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\2.MovieManagementSystem\bin\Debug\net9.0\2.MovieManagementSystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\2.MovieManagementSystem\obj\Debug\net9.0\2.MovieManagementSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\2.MovieManagementSystem\obj\Debug\net9.0\refint\2.MovieManagementSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\2.MovieManagementSystem\obj\Debug\net9.0\2.MovieManagementSystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\2.MovieManagementSystem\obj\Debug\net9.0\2.MovieManagementSystem.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\2.MovieManagementSystem\obj\Debug\net9.0\ref\2.MovieManagementSystem.dll
