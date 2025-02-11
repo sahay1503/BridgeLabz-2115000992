@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\5.LibraryManagementSystem\bin\Debug\net9.0\5.LibraryManagementSystem.exe
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\5.LibraryManagementSystem\bin\Debug\net9.0\5.LibraryManagementSystem.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\5.LibraryManagementSystem\bin\Debug\net9.0\5.LibraryManagementSystem.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\5.LibraryManagementSystem\bin\Debug\net9.0\5.LibraryManagementSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\5.LibraryManagementSystem\bin\Debug\net9.0\5.LibraryManagementSystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\5.LibraryManagementSystem\obj\Debug\net9.0\5.LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\5.LibraryManagementSystem\obj\Debug\net9.0\5.LibraryManagementSystem.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\5.LibraryManagementSystem\obj\Debug\net9.0\5.LibraryManagementSystem.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\5.LibraryManagementSystem\obj\Debug\net9.0\5.LibraryManagementSystem.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\5.LibraryManagementSystem\obj\Debug\net9.0\5.LibraryManagementSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\5.LibraryManagementSystem\obj\Debug\net9.0\refint\5.LibraryManagementSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\5.LibraryManagementSystem\obj\Debug\net9.0\5.LibraryManagementSystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\5.LibraryManagementSystem\obj\Debug\net9.0\5.LibraryManagementSystem.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\5.LibraryManagementSystem\obj\Debug\net9.0\ref\5.LibraryManagementSystem.dll

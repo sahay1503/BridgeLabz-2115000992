@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\6.RoundRobinSchedulingAlgorithm\bin\Debug\net9.0\6.RoundRobinSchedulingAlgorithm.exe
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\6.RoundRobinSchedulingAlgorithm\bin\Debug\net9.0\6.RoundRobinSchedulingAlgorithm.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\6.RoundRobinSchedulingAlgorithm\bin\Debug\net9.0\6.RoundRobinSchedulingAlgorithm.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\6.RoundRobinSchedulingAlgorithm\bin\Debug\net9.0\6.RoundRobinSchedulingAlgorithm.dll
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\6.RoundRobinSchedulingAlgorithm\bin\Debug\net9.0\6.RoundRobinSchedulingAlgorithm.pdb
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\6.RoundRobinSchedulingAlgorithm\obj\Debug\net9.0\6.RoundRobinSchedulingAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\6.RoundRobinSchedulingAlgorithm\obj\Debug\net9.0\6.RoundRobinSchedulingAlgorithm.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\6.RoundRobinSchedulingAlgorithm\obj\Debug\net9.0\6.RoundRobinSchedulingAlgorithm.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\6.RoundRobinSchedulingAlgorithm\obj\Debug\net9.0\6.RoundRobinSchedulingAlgorithm.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\6.RoundRobinSchedulingAlgorithm\obj\Debug\net9.0\6.RoundRobinSchedulingAlgorithm.dll
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\6.RoundRobinSchedulingAlgorithm\obj\Debug\net9.0\refint\6.RoundRobinSchedulingAlgorithm.dll
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\6.RoundRobinSchedulingAlgorithm\obj\Debug\net9.0\6.RoundRobinSchedulingAlgorithm.pdb
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\6.RoundRobinSchedulingAlgorithm\obj\Debug\net9.0\6.RoundRobinSchedulingAlgorithm.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\6.RoundRobinSchedulingAlgorithm\obj\Debug\net9.0\ref\6.RoundRobinSchedulingAlgorithm.dll

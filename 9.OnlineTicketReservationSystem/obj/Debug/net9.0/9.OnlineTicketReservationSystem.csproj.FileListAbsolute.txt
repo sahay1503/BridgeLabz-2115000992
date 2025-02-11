@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\9.OnlineTicketReservationSystem\bin\Debug\net9.0\9.OnlineTicketReservationSystem.exe
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\9.OnlineTicketReservationSystem\bin\Debug\net9.0\9.OnlineTicketReservationSystem.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\9.OnlineTicketReservationSystem\bin\Debug\net9.0\9.OnlineTicketReservationSystem.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\9.OnlineTicketReservationSystem\bin\Debug\net9.0\9.OnlineTicketReservationSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\9.OnlineTicketReservationSystem\bin\Debug\net9.0\9.OnlineTicketReservationSystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\9.OnlineTicketReservationSystem\obj\Debug\net9.0\9.OnlineTicketReservationSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\9.OnlineTicketReservationSystem\obj\Debug\net9.0\9.OnlineTicketReservationSystem.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\9.OnlineTicketReservationSystem\obj\Debug\net9.0\9.OnlineTicketReservationSystem.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\9.OnlineTicketReservationSystem\obj\Debug\net9.0\9.OnlineTicketReservationSystem.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\9.OnlineTicketReservationSystem\obj\Debug\net9.0\9.OnlineTicketReservationSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\9.OnlineTicketReservationSystem\obj\Debug\net9.0\refint\9.OnlineTicketReservationSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\9.OnlineTicketReservationSystem\obj\Debug\net9.0\9.OnlineTicketReservationSystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\9.OnlineTicketReservationSystem\obj\Debug\net9.0\9.OnlineTicketReservationSystem.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\9.OnlineTicketReservationSystem\obj\Debug\net9.0\ref\9.OnlineTicketReservationSystem.dll

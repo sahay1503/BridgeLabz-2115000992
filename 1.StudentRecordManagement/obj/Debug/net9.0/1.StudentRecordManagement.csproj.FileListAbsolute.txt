@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\1.StudentRecordManagement\bin\Debug\net9.0\1.StudentRecordManagement.exe
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\1.StudentRecordManagement\bin\Debug\net9.0\1.StudentRecordManagement.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\1.StudentRecordManagement\bin\Debug\net9.0\1.StudentRecordManagement.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\1.StudentRecordManagement\bin\Debug\net9.0\1.StudentRecordManagement.dll
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\1.StudentRecordManagement\bin\Debug\net9.0\1.StudentRecordManagement.pdb
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\1.StudentRecordManagement\obj\Debug\net9.0\1.StudentRecordManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\1.StudentRecordManagement\obj\Debug\net9.0\1.StudentRecordManagement.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\1.StudentRecordManagement\obj\Debug\net9.0\1.StudentRecordManagement.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\1.StudentRecordManagement\obj\Debug\net9.0\1.StudentRecordManagement.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\1.StudentRecordManagement\obj\Debug\net9.0\1.StudentRecordManagement.dll
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\1.StudentRecordManagement\obj\Debug\net9.0\refint\1.StudentRecordManagement.dll
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\1.StudentRecordManagement\obj\Debug\net9.0\1.StudentRecordManagement.pdb
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\1.StudentRecordManagement\obj\Debug\net9.0\1.StudentRecordManagement.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\1.StudentRecordManagement\obj\Debug\net9.0\ref\1.StudentRecordManagement.dll

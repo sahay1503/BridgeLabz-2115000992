@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\3.TaskSchedular\obj\Debug\net9.0\3.TaskSchedular.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\3.TaskSchedular\obj\Debug\net9.0\3.TaskSchedular.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\3.TaskSchedular\obj\Debug\net9.0\3.TaskSchedular.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\3.TaskSchedular\obj\Debug\net9.0\3.TaskSchedular.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\3.TaskSchedular\bin\Debug\net9.0\3.TaskSchedular.exe
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\3.TaskSchedular\bin\Debug\net9.0\3.TaskSchedular.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\3.TaskSchedular\bin\Debug\net9.0\3.TaskSchedular.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\3.TaskSchedular\bin\Debug\net9.0\3.TaskSchedular.dll
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\3.TaskSchedular\bin\Debug\net9.0\3.TaskSchedular.pdb
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\3.TaskSchedular\obj\Debug\net9.0\3.TaskSchedular.dll
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\3.TaskSchedular\obj\Debug\net9.0\refint\3.TaskSchedular.dll
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\3.TaskSchedular\obj\Debug\net9.0\3.TaskSchedular.pdb
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\3.TaskSchedular\obj\Debug\net9.0\3.TaskSchedular.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\3.TaskSchedular\obj\Debug\net9.0\ref\3.TaskSchedular.dll

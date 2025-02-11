@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\4.InventoryManagementSystem\bin\Debug\net9.0\4.InventoryManagementSystem.exe
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\4.InventoryManagementSystem\bin\Debug\net9.0\4.InventoryManagementSystem.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\4.InventoryManagementSystem\bin\Debug\net9.0\4.InventoryManagementSystem.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\4.InventoryManagementSystem\bin\Debug\net9.0\4.InventoryManagementSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\4.InventoryManagementSystem\bin\Debug\net9.0\4.InventoryManagementSystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\4.InventoryManagementSystem\obj\Debug\net9.0\4.InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\4.InventoryManagementSystem\obj\Debug\net9.0\4.InventoryManagementSystem.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\4.InventoryManagementSystem\obj\Debug\net9.0\4.InventoryManagementSystem.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\4.InventoryManagementSystem\obj\Debug\net9.0\4.InventoryManagementSystem.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\4.InventoryManagementSystem\obj\Debug\net9.0\4.InventoryManagementSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\4.InventoryManagementSystem\obj\Debug\net9.0\refint\4.InventoryManagementSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\4.InventoryManagementSystem\obj\Debug\net9.0\4.InventoryManagementSystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\4.InventoryManagementSystem\obj\Debug\net9.0\4.InventoryManagementSystem.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-11Feb2025\4.InventoryManagementSystem\obj\Debug\net9.0\ref\4.InventoryManagementSystem.dll
