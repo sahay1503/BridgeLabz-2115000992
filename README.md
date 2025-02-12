@@ -101,3 +101,9 @@
 * Read about C# Data Structures and key features and Types of Data Structure.
 * Read about Introdution of LinkedList and single LinkedList , Double LinkedList and Circular LinkedList.
 * Solved some practice problems based on LinkedList.
+
+## Task 21: DATE: 12-02-2025
+* Read about C# Stack and key characterstics of stack and internal working of stack.
+* Read about C# Queue and key characterstics of queue and internal working of queue.
+* Solved some practice problems based on stacks and queues.
+
