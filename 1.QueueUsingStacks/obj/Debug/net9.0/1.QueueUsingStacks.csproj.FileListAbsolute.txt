@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\1.QueueUsingStacks\bin\Debug\net9.0\1.QueueUsingStacks.exe
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\1.QueueUsingStacks\bin\Debug\net9.0\1.QueueUsingStacks.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\1.QueueUsingStacks\bin\Debug\net9.0\1.QueueUsingStacks.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\1.QueueUsingStacks\bin\Debug\net9.0\1.QueueUsingStacks.dll
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\1.QueueUsingStacks\bin\Debug\net9.0\1.QueueUsingStacks.pdb
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\1.QueueUsingStacks\obj\Debug\net9.0\1.QueueUsingStacks.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\1.QueueUsingStacks\obj\Debug\net9.0\1.QueueUsingStacks.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\1.QueueUsingStacks\obj\Debug\net9.0\1.QueueUsingStacks.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\1.QueueUsingStacks\obj\Debug\net9.0\1.QueueUsingStacks.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\1.QueueUsingStacks\obj\Debug\net9.0\1.QueueUsingStacks.dll
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\1.QueueUsingStacks\obj\Debug\net9.0\refint\1.QueueUsingStacks.dll
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\1.QueueUsingStacks\obj\Debug\net9.0\1.QueueUsingStacks.pdb
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\1.QueueUsingStacks\obj\Debug\net9.0\1.QueueUsingStacks.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\1.QueueUsingStacks\obj\Debug\net9.0\ref\1.QueueUsingStacks.dll

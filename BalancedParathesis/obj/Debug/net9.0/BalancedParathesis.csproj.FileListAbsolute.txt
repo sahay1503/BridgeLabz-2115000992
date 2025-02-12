@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\BalancedParathesis\obj\Debug\net9.0\BalancedParathesis.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\BalancedParathesis\obj\Debug\net9.0\BalancedParathesis.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\BalancedParathesis\obj\Debug\net9.0\BalancedParathesis.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\BalancedParathesis\obj\Debug\net9.0\BalancedParathesis.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\BalancedParathesis\bin\Debug\net9.0\BalancedParathesis.exe
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\BalancedParathesis\bin\Debug\net9.0\BalancedParathesis.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\BalancedParathesis\bin\Debug\net9.0\BalancedParathesis.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\BalancedParathesis\bin\Debug\net9.0\BalancedParathesis.dll
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\BalancedParathesis\bin\Debug\net9.0\BalancedParathesis.pdb
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\BalancedParathesis\obj\Debug\net9.0\BalancedParathesis.dll
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\BalancedParathesis\obj\Debug\net9.0\refint\BalancedParathesis.dll
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\BalancedParathesis\obj\Debug\net9.0\BalancedParathesis.pdb
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\BalancedParathesis\obj\Debug\net9.0\BalancedParathesis.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-12Jan2025\BalancedParathesis\obj\Debug\net9.0\ref\BalancedParathesis.dll
