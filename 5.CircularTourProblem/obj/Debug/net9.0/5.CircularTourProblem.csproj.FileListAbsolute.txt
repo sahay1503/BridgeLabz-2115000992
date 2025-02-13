@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\5.CircularTourProblem\bin\Debug\net9.0\5.CircularTourProblem.exe
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\5.CircularTourProblem\bin\Debug\net9.0\5.CircularTourProblem.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\5.CircularTourProblem\bin\Debug\net9.0\5.CircularTourProblem.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\5.CircularTourProblem\bin\Debug\net9.0\5.CircularTourProblem.dll
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\5.CircularTourProblem\bin\Debug\net9.0\5.CircularTourProblem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\5.CircularTourProblem\obj\Debug\net9.0\5.CircularTourProblem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\5.CircularTourProblem\obj\Debug\net9.0\5.CircularTourProblem.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\5.CircularTourProblem\obj\Debug\net9.0\5.CircularTourProblem.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\5.CircularTourProblem\obj\Debug\net9.0\5.CircularTourProblem.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\5.CircularTourProblem\obj\Debug\net9.0\5.CircularTourProblem.dll
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\5.CircularTourProblem\obj\Debug\net9.0\refint\5.CircularTourProblem.dll
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\5.CircularTourProblem\obj\Debug\net9.0\5.CircularTourProblem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\5.CircularTourProblem\obj\Debug\net9.0\5.CircularTourProblem.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\5.CircularTourProblem\obj\Debug\net9.0\ref\5.CircularTourProblem.dll

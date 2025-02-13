@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\2.StackSorting\bin\Debug\net9.0\2.StackSorting.exe
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\2.StackSorting\bin\Debug\net9.0\2.StackSorting.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\2.StackSorting\bin\Debug\net9.0\2.StackSorting.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\2.StackSorting\bin\Debug\net9.0\2.StackSorting.dll
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\2.StackSorting\bin\Debug\net9.0\2.StackSorting.pdb
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\2.StackSorting\obj\Debug\net9.0\2.StackSorting.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\2.StackSorting\obj\Debug\net9.0\2.StackSorting.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\2.StackSorting\obj\Debug\net9.0\2.StackSorting.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\2.StackSorting\obj\Debug\net9.0\2.StackSorting.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\2.StackSorting\obj\Debug\net9.0\2.StackSorting.dll
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\2.StackSorting\obj\Debug\net9.0\refint\2.StackSorting.dll
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\2.StackSorting\obj\Debug\net9.0\2.StackSorting.pdb
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\2.StackSorting\obj\Debug\net9.0\2.StackSorting.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\2.StackSorting\obj\Debug\net9.0\ref\2.StackSorting.dll

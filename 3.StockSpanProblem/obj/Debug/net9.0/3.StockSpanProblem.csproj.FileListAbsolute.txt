@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\3.StockSpanProblem\bin\Debug\net9.0\3.StockSpanProblem.exe
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\3.StockSpanProblem\bin\Debug\net9.0\3.StockSpanProblem.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\3.StockSpanProblem\bin\Debug\net9.0\3.StockSpanProblem.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\3.StockSpanProblem\bin\Debug\net9.0\3.StockSpanProblem.dll
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\3.StockSpanProblem\bin\Debug\net9.0\3.StockSpanProblem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\3.StockSpanProblem\obj\Debug\net9.0\3.StockSpanProblem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\3.StockSpanProblem\obj\Debug\net9.0\3.StockSpanProblem.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\3.StockSpanProblem\obj\Debug\net9.0\3.StockSpanProblem.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\3.StockSpanProblem\obj\Debug\net9.0\3.StockSpanProblem.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\3.StockSpanProblem\obj\Debug\net9.0\3.StockSpanProblem.dll
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\3.StockSpanProblem\obj\Debug\net9.0\refint\3.StockSpanProblem.dll
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\3.StockSpanProblem\obj\Debug\net9.0\3.StockSpanProblem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\3.StockSpanProblem\obj\Debug\net9.0\3.StockSpanProblem.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\3.StockSpanProblem\obj\Debug\net9.0\ref\3.StockSpanProblem.dll

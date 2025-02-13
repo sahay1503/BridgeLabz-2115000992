@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\7.CheckPairSuminArray\bin\Debug\net9.0\7.CheckPairSuminArray.exe
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\7.CheckPairSuminArray\bin\Debug\net9.0\7.CheckPairSuminArray.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\7.CheckPairSuminArray\bin\Debug\net9.0\7.CheckPairSuminArray.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\7.CheckPairSuminArray\bin\Debug\net9.0\7.CheckPairSuminArray.dll
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\7.CheckPairSuminArray\bin\Debug\net9.0\7.CheckPairSuminArray.pdb
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\7.CheckPairSuminArray\obj\Debug\net9.0\7.CheckPairSuminArray.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\7.CheckPairSuminArray\obj\Debug\net9.0\7.CheckPairSuminArray.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\7.CheckPairSuminArray\obj\Debug\net9.0\7.CheckPairSuminArray.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\7.CheckPairSuminArray\obj\Debug\net9.0\7.CheckPairSuminArray.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\7.CheckPairSuminArray\obj\Debug\net9.0\7.CheckPairSuminArray.dll
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\7.CheckPairSuminArray\obj\Debug\net9.0\refint\7.CheckPairSuminArray.dll
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\7.CheckPairSuminArray\obj\Debug\net9.0\7.CheckPairSuminArray.pdb
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\7.CheckPairSuminArray\obj\Debug\net9.0\7.CheckPairSuminArray.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\7.CheckPairSuminArray\obj\Debug\net9.0\ref\7.CheckPairSuminArray.dll

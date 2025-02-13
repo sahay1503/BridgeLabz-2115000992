@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\10.TwoSumProblem\bin\Debug\net9.0\10.TwoSumProblem.exe
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\10.TwoSumProblem\bin\Debug\net9.0\10.TwoSumProblem.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\10.TwoSumProblem\bin\Debug\net9.0\10.TwoSumProblem.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\10.TwoSumProblem\bin\Debug\net9.0\10.TwoSumProblem.dll
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\10.TwoSumProblem\bin\Debug\net9.0\10.TwoSumProblem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\10.TwoSumProblem\obj\Debug\net9.0\10.TwoSumProblem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\10.TwoSumProblem\obj\Debug\net9.0\10.TwoSumProblem.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\10.TwoSumProblem\obj\Debug\net9.0\10.TwoSumProblem.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\10.TwoSumProblem\obj\Debug\net9.0\10.TwoSumProblem.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\10.TwoSumProblem\obj\Debug\net9.0\10.TwoSumProblem.dll
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\10.TwoSumProblem\obj\Debug\net9.0\refint\10.TwoSumProblem.dll
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\10.TwoSumProblem\obj\Debug\net9.0\10.TwoSumProblem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\10.TwoSumProblem\obj\Debug\net9.0\10.TwoSumProblem.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\10.TwoSumProblem\obj\Debug\net9.0\ref\10.TwoSumProblem.dll

@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\8.LongestConsecutiveSequence\bin\Debug\net9.0\8.LongestConsecutiveSequence.exe
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\8.LongestConsecutiveSequence\bin\Debug\net9.0\8.LongestConsecutiveSequence.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\8.LongestConsecutiveSequence\bin\Debug\net9.0\8.LongestConsecutiveSequence.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\8.LongestConsecutiveSequence\bin\Debug\net9.0\8.LongestConsecutiveSequence.dll
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\8.LongestConsecutiveSequence\bin\Debug\net9.0\8.LongestConsecutiveSequence.pdb
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\8.LongestConsecutiveSequence\obj\Debug\net9.0\8.LongestConsecutiveSequence.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\8.LongestConsecutiveSequence\obj\Debug\net9.0\8.LongestConsecutiveSequence.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\8.LongestConsecutiveSequence\obj\Debug\net9.0\8.LongestConsecutiveSequence.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\8.LongestConsecutiveSequence\obj\Debug\net9.0\8.LongestConsecutiveSequence.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\8.LongestConsecutiveSequence\obj\Debug\net9.0\8.LongestConsecutiveSequence.dll
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\8.LongestConsecutiveSequence\obj\Debug\net9.0\refint\8.LongestConsecutiveSequence.dll
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\8.LongestConsecutiveSequence\obj\Debug\net9.0\8.LongestConsecutiveSequence.pdb
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\8.LongestConsecutiveSequence\obj\Debug\net9.0\8.LongestConsecutiveSequence.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-13Feb2025\8.LongestConsecutiveSequence\obj\Debug\net9.0\ref\8.LongestConsecutiveSequence.dll

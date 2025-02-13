@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "10.TwoSumProblem/1.0.0": {
+        "runtime": {
+          "10.TwoSumProblem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10.TwoSumProblem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
