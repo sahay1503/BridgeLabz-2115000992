@@ -107,3 +107,7 @@
 * Read about C# Queue and key characterstics of queue and internal working of queue.
 * Solved some practice problems based on stacks and queues.
 
+## Task 22: DATE: 13-02-2025
+* Revised implemention of Linkedlist of singly doubly and circular linkedlist.
+* Solved some practice problems based on Stack of the Assignment.
+
