@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\3.MergeSort\bin\Debug\net9.0\3.MergeSort.exe
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\3.MergeSort\bin\Debug\net9.0\3.MergeSort.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\3.MergeSort\bin\Debug\net9.0\3.MergeSort.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\3.MergeSort\bin\Debug\net9.0\3.MergeSort.dll
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\3.MergeSort\bin\Debug\net9.0\3.MergeSort.pdb
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\3.MergeSort\obj\Debug\net9.0\3.MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\3.MergeSort\obj\Debug\net9.0\3.MergeSort.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\3.MergeSort\obj\Debug\net9.0\3.MergeSort.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\3.MergeSort\obj\Debug\net9.0\3.MergeSort.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\3.MergeSort\obj\Debug\net9.0\3.MergeSort.dll
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\3.MergeSort\obj\Debug\net9.0\refint\3.MergeSort.dll
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\3.MergeSort\obj\Debug\net9.0\3.MergeSort.pdb
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\3.MergeSort\obj\Debug\net9.0\3.MergeSort.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\3.MergeSort\obj\Debug\net9.0\ref\3.MergeSort.dll
