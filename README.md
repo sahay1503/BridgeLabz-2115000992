@@ -111,3 +111,6 @@
 * Revised implemention of Linkedlist of singly doubly and circular linkedlist.
 * Solved some practice problems based on Stack of the Assignment.
 
+## Task 23: DATE: 14-02-2025
+* Revised Sorting Algorithms like bubble sort, insertion sort and merge sort.
+* Solved some practice problems based on these sorting algorithms of the Assignment.
