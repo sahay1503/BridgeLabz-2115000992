@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\4.QuickSort\bin\Debug\net9.0\4.QuickSort.exe
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\4.QuickSort\bin\Debug\net9.0\4.QuickSort.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\4.QuickSort\bin\Debug\net9.0\4.QuickSort.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\4.QuickSort\bin\Debug\net9.0\4.QuickSort.dll
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\4.QuickSort\bin\Debug\net9.0\4.QuickSort.pdb
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\4.QuickSort\obj\Debug\net9.0\4.QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\4.QuickSort\obj\Debug\net9.0\4.QuickSort.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\4.QuickSort\obj\Debug\net9.0\4.QuickSort.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\4.QuickSort\obj\Debug\net9.0\4.QuickSort.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\4.QuickSort\obj\Debug\net9.0\4.QuickSort.dll
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\4.QuickSort\obj\Debug\net9.0\refint\4.QuickSort.dll
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\4.QuickSort\obj\Debug\net9.0\4.QuickSort.pdb
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\4.QuickSort\obj\Debug\net9.0\4.QuickSort.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\4.QuickSort\obj\Debug\net9.0\ref\4.QuickSort.dll

@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\5.SelectionSort\bin\Debug\net9.0\5.SelectionSort.exe
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\5.SelectionSort\bin\Debug\net9.0\5.SelectionSort.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\5.SelectionSort\bin\Debug\net9.0\5.SelectionSort.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\5.SelectionSort\bin\Debug\net9.0\5.SelectionSort.dll
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\5.SelectionSort\bin\Debug\net9.0\5.SelectionSort.pdb
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\5.SelectionSort\obj\Debug\net9.0\5.SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\5.SelectionSort\obj\Debug\net9.0\5.SelectionSort.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\5.SelectionSort\obj\Debug\net9.0\5.SelectionSort.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\5.SelectionSort\obj\Debug\net9.0\5.SelectionSort.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\5.SelectionSort\obj\Debug\net9.0\5.SelectionSort.dll
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\5.SelectionSort\obj\Debug\net9.0\refint\5.SelectionSort.dll
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\5.SelectionSort\obj\Debug\net9.0\5.SelectionSort.pdb
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\5.SelectionSort\obj\Debug\net9.0\5.SelectionSort.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\5.SelectionSort\obj\Debug\net9.0\ref\5.SelectionSort.dll

@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\6.HeapSort\bin\Debug\net9.0\6.HeapSort.exe
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\6.HeapSort\bin\Debug\net9.0\6.HeapSort.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\6.HeapSort\bin\Debug\net9.0\6.HeapSort.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\6.HeapSort\bin\Debug\net9.0\6.HeapSort.dll
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\6.HeapSort\bin\Debug\net9.0\6.HeapSort.pdb
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\6.HeapSort\obj\Debug\net9.0\6.HeapSort.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\6.HeapSort\obj\Debug\net9.0\6.HeapSort.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\6.HeapSort\obj\Debug\net9.0\6.HeapSort.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\6.HeapSort\obj\Debug\net9.0\6.HeapSort.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\6.HeapSort\obj\Debug\net9.0\6.HeapSort.dll
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\6.HeapSort\obj\Debug\net9.0\refint\6.HeapSort.dll
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\6.HeapSort\obj\Debug\net9.0\6.HeapSort.pdb
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\6.HeapSort\obj\Debug\net9.0\6.HeapSort.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\6.HeapSort\obj\Debug\net9.0\ref\6.HeapSort.dll

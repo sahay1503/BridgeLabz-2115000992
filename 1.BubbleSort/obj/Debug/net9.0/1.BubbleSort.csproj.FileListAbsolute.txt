@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\1.BubbleSort\bin\Debug\net9.0\1.BubbleSort.exe
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\1.BubbleSort\bin\Debug\net9.0\1.BubbleSort.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\1.BubbleSort\bin\Debug\net9.0\1.BubbleSort.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\1.BubbleSort\bin\Debug\net9.0\1.BubbleSort.dll
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\1.BubbleSort\bin\Debug\net9.0\1.BubbleSort.pdb
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\1.BubbleSort\obj\Debug\net9.0\1.BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\1.BubbleSort\obj\Debug\net9.0\1.BubbleSort.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\1.BubbleSort\obj\Debug\net9.0\1.BubbleSort.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\1.BubbleSort\obj\Debug\net9.0\1.BubbleSort.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\1.BubbleSort\obj\Debug\net9.0\1.BubbleSort.dll
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\1.BubbleSort\obj\Debug\net9.0\refint\1.BubbleSort.dll
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\1.BubbleSort\obj\Debug\net9.0\1.BubbleSort.pdb
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\1.BubbleSort\obj\Debug\net9.0\1.BubbleSort.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\1.BubbleSort\obj\Debug\net9.0\ref\1.BubbleSort.dll

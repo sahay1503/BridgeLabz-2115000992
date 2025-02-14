@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\2.InsertionSort\bin\Debug\net9.0\2.InsertionSort.exe
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\2.InsertionSort\bin\Debug\net9.0\2.InsertionSort.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\2.InsertionSort\bin\Debug\net9.0\2.InsertionSort.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\2.InsertionSort\bin\Debug\net9.0\2.InsertionSort.dll
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\2.InsertionSort\bin\Debug\net9.0\2.InsertionSort.pdb
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\2.InsertionSort\obj\Debug\net9.0\2.InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\2.InsertionSort\obj\Debug\net9.0\2.InsertionSort.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\2.InsertionSort\obj\Debug\net9.0\2.InsertionSort.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\2.InsertionSort\obj\Debug\net9.0\2.InsertionSort.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\2.InsertionSort\obj\Debug\net9.0\2.InsertionSort.dll
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\2.InsertionSort\obj\Debug\net9.0\refint\2.InsertionSort.dll
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\2.InsertionSort\obj\Debug\net9.0\2.InsertionSort.pdb
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\2.InsertionSort\obj\Debug\net9.0\2.InsertionSort.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-14Feb2025\2.InsertionSort\obj\Debug\net9.0\ref\2.InsertionSort.dll
