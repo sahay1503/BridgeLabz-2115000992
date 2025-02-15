@@ -114,3 +114,9 @@
 ## Task 23: DATE: 14-02-2025
 * Revised Sorting Algorithms like bubble sort, insertion sort and merge sort.
 * Solved some practice problems based on these sorting algorithms of the Assignment.
+
+## Task 24: DATE: 15-02-2025
+* Read About StringBuilder, StringBuffer, BufferedReader.
+* Read about Linear Search and Binary Search. 
+* Solved some practice problems based on StringBuffer of Assignment.
+
