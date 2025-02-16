@@ -120,3 +120,8 @@
 * Read about Linear Search and Binary Search. 
 * Solved some practice problems based on StringBuffer of Assignment.
 
+## Task 25: DATE: 16-02-2025
+* Read About FileReader, InputStreamReader
+* Read About Runtime Analysis, Understanding Big-O Notation,Time Complexity Analysis, Space Complexity Analysis
+* Solved some practice problems based on Assignment.
+
