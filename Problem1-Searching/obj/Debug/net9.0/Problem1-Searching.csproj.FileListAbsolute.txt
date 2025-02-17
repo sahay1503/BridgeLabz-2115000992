@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem1-Searching\bin\Debug\net9.0\Problem1-Searching.exe
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem1-Searching\bin\Debug\net9.0\Problem1-Searching.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem1-Searching\bin\Debug\net9.0\Problem1-Searching.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem1-Searching\bin\Debug\net9.0\Problem1-Searching.dll
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem1-Searching\bin\Debug\net9.0\Problem1-Searching.pdb
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem1-Searching\obj\Debug\net9.0\Problem1-Searching.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem1-Searching\obj\Debug\net9.0\Problem1-Searching.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem1-Searching\obj\Debug\net9.0\Problem1-Searching.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem1-Searching\obj\Debug\net9.0\Problem1-Searching.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem1-Searching\obj\Debug\net9.0\Problem1-Searching.dll
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem1-Searching\obj\Debug\net9.0\refint\Problem1-Searching.dll
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem1-Searching\obj\Debug\net9.0\Problem1-Searching.pdb
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem1-Searching\obj\Debug\net9.0\Problem1-Searching.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem1-Searching\obj\Debug\net9.0\ref\Problem1-Searching.dll

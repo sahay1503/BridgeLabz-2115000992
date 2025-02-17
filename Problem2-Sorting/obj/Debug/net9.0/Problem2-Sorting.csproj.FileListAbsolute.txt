@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem2-Sorting\bin\Debug\net9.0\Problem2-Sorting.exe
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem2-Sorting\bin\Debug\net9.0\Problem2-Sorting.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem2-Sorting\bin\Debug\net9.0\Problem2-Sorting.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem2-Sorting\bin\Debug\net9.0\Problem2-Sorting.dll
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem2-Sorting\bin\Debug\net9.0\Problem2-Sorting.pdb
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem2-Sorting\obj\Debug\net9.0\Problem2-Sorting.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem2-Sorting\obj\Debug\net9.0\Problem2-Sorting.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem2-Sorting\obj\Debug\net9.0\Problem2-Sorting.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem2-Sorting\obj\Debug\net9.0\Problem2-Sorting.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem2-Sorting\obj\Debug\net9.0\Problem2-Sorting.dll
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem2-Sorting\obj\Debug\net9.0\refint\Problem2-Sorting.dll
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem2-Sorting\obj\Debug\net9.0\Problem2-Sorting.pdb
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem2-Sorting\obj\Debug\net9.0\Problem2-Sorting.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-17Feb2025\Problem2-Sorting\obj\Debug\net9.0\ref\Problem2-Sorting.dll
