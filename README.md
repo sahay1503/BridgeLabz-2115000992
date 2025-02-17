@@ -125,3 +125,7 @@
 * Read About Runtime Analysis, Understanding Big-O Notation,Time Complexity Analysis, Space Complexity Analysis
 * Solved some practice problems based on Assignment.
 
+## Task 26: DATE: 17-02-2025
+* Read About General Algorithm Best Practices and Time and space Complexity Optimization
+* Read About Runtime Analysis, Understanding Big-O Notation,Time Complexity Analysis, Space Complexity Analysis
+* Solved some practice problems based on Assignment.
