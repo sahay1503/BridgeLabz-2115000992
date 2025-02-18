@@ -129,3 +129,9 @@
 * Read About General Algorithm Best Practices and Time and space Complexity Optimization
 * Read About Runtime Analysis, Understanding Big-O Notation,Time Complexity Analysis, Space Complexity Analysis
 * Solved some practice problems based on Assignment.
+
+## Task 27: DATE: 18-02-2025
+* Read About Generic Class
+* Read About Types of parameters in Generics and in and out covariance.
+* Solved Smart warehouse management system based on Assignment.
+
