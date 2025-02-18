@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Problem3-MultiLevelUniversityCourseManagementSystem/1.0.0": {
+        "runtime": {
+          "Problem3-MultiLevelUniversityCourseManagementSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem3-MultiLevelUniversityCourseManagementSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

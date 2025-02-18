@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem1-SmartWarehouseManagementSystem\bin\Debug\net9.0\Problem1-SmartWarehouseManagementSystem.exe
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem1-SmartWarehouseManagementSystem\bin\Debug\net9.0\Problem1-SmartWarehouseManagementSystem.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem1-SmartWarehouseManagementSystem\bin\Debug\net9.0\Problem1-SmartWarehouseManagementSystem.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem1-SmartWarehouseManagementSystem\bin\Debug\net9.0\Problem1-SmartWarehouseManagementSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem1-SmartWarehouseManagementSystem\bin\Debug\net9.0\Problem1-SmartWarehouseManagementSystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem1-SmartWarehouseManagementSystem\obj\Debug\net9.0\Problem1-SmartWarehouseManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem1-SmartWarehouseManagementSystem\obj\Debug\net9.0\Problem1-SmartWarehouseManagementSystem.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem1-SmartWarehouseManagementSystem\obj\Debug\net9.0\Problem1-SmartWarehouseManagementSystem.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem1-SmartWarehouseManagementSystem\obj\Debug\net9.0\Problem1-SmartWarehouseManagementSystem.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem1-SmartWarehouseManagementSystem\obj\Debug\net9.0\Problem1-SmartWarehouseManagementSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem1-SmartWarehouseManagementSystem\obj\Debug\net9.0\refint\Problem1-SmartWarehouseManagementSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem1-SmartWarehouseManagementSystem\obj\Debug\net9.0\Problem1-SmartWarehouseManagementSystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem1-SmartWarehouseManagementSystem\obj\Debug\net9.0\Problem1-SmartWarehouseManagementSystem.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem1-SmartWarehouseManagementSystem\obj\Debug\net9.0\ref\Problem1-SmartWarehouseManagementSystem.dll

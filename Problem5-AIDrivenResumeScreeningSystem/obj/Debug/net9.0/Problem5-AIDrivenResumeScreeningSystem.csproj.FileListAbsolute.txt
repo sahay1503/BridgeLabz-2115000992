@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem5-AIDrivenResumeScreeningSystem\bin\Debug\net9.0\Problem5-AIDrivenResumeScreeningSystem.exe
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem5-AIDrivenResumeScreeningSystem\bin\Debug\net9.0\Problem5-AIDrivenResumeScreeningSystem.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem5-AIDrivenResumeScreeningSystem\bin\Debug\net9.0\Problem5-AIDrivenResumeScreeningSystem.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem5-AIDrivenResumeScreeningSystem\bin\Debug\net9.0\Problem5-AIDrivenResumeScreeningSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem5-AIDrivenResumeScreeningSystem\bin\Debug\net9.0\Problem5-AIDrivenResumeScreeningSystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem5-AIDrivenResumeScreeningSystem\obj\Debug\net9.0\Problem5-AIDrivenResumeScreeningSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem5-AIDrivenResumeScreeningSystem\obj\Debug\net9.0\Problem5-AIDrivenResumeScreeningSystem.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem5-AIDrivenResumeScreeningSystem\obj\Debug\net9.0\Problem5-AIDrivenResumeScreeningSystem.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem5-AIDrivenResumeScreeningSystem\obj\Debug\net9.0\Problem5-AIDrivenResumeScreeningSystem.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem5-AIDrivenResumeScreeningSystem\obj\Debug\net9.0\Problem5-AIDrivenResumeScreeningSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem5-AIDrivenResumeScreeningSystem\obj\Debug\net9.0\refint\Problem5-AIDrivenResumeScreeningSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem5-AIDrivenResumeScreeningSystem\obj\Debug\net9.0\Problem5-AIDrivenResumeScreeningSystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem5-AIDrivenResumeScreeningSystem\obj\Debug\net9.0\Problem5-AIDrivenResumeScreeningSystem.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem5-AIDrivenResumeScreeningSystem\obj\Debug\net9.0\ref\Problem5-AIDrivenResumeScreeningSystem.dll

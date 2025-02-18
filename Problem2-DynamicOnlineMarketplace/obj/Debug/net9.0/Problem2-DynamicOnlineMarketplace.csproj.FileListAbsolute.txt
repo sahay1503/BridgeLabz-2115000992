@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem2-DynamicOnlineMarketplace\bin\Debug\net9.0\Problem2-DynamicOnlineMarketplace.exe
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem2-DynamicOnlineMarketplace\bin\Debug\net9.0\Problem2-DynamicOnlineMarketplace.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem2-DynamicOnlineMarketplace\bin\Debug\net9.0\Problem2-DynamicOnlineMarketplace.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem2-DynamicOnlineMarketplace\bin\Debug\net9.0\Problem2-DynamicOnlineMarketplace.dll
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem2-DynamicOnlineMarketplace\bin\Debug\net9.0\Problem2-DynamicOnlineMarketplace.pdb
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem2-DynamicOnlineMarketplace\obj\Debug\net9.0\Problem2-DynamicOnlineMarketplace.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem2-DynamicOnlineMarketplace\obj\Debug\net9.0\Problem2-DynamicOnlineMarketplace.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem2-DynamicOnlineMarketplace\obj\Debug\net9.0\Problem2-DynamicOnlineMarketplace.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem2-DynamicOnlineMarketplace\obj\Debug\net9.0\Problem2-DynamicOnlineMarketplace.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem2-DynamicOnlineMarketplace\obj\Debug\net9.0\Problem2-DynamicOnlineMarketplace.dll
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem2-DynamicOnlineMarketplace\obj\Debug\net9.0\refint\Problem2-DynamicOnlineMarketplace.dll
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem2-DynamicOnlineMarketplace\obj\Debug\net9.0\Problem2-DynamicOnlineMarketplace.pdb
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem2-DynamicOnlineMarketplace\obj\Debug\net9.0\Problem2-DynamicOnlineMarketplace.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem2-DynamicOnlineMarketplace\obj\Debug\net9.0\ref\Problem2-DynamicOnlineMarketplace.dll

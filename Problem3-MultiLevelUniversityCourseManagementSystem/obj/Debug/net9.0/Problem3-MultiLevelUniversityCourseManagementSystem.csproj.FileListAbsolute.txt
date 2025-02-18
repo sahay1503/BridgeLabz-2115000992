@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem3-MultiLevelUniversityCourseManagementSystem\bin\Debug\net9.0\Problem3-MultiLevelUniversityCourseManagementSystem.exe
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem3-MultiLevelUniversityCourseManagementSystem\bin\Debug\net9.0\Problem3-MultiLevelUniversityCourseManagementSystem.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem3-MultiLevelUniversityCourseManagementSystem\bin\Debug\net9.0\Problem3-MultiLevelUniversityCourseManagementSystem.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem3-MultiLevelUniversityCourseManagementSystem\bin\Debug\net9.0\Problem3-MultiLevelUniversityCourseManagementSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem3-MultiLevelUniversityCourseManagementSystem\bin\Debug\net9.0\Problem3-MultiLevelUniversityCourseManagementSystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem3-MultiLevelUniversityCourseManagementSystem\obj\Debug\net9.0\Problem3-MultiLevelUniversityCourseManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem3-MultiLevelUniversityCourseManagementSystem\obj\Debug\net9.0\Problem3-MultiLevelUniversityCourseManagementSystem.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem3-MultiLevelUniversityCourseManagementSystem\obj\Debug\net9.0\Problem3-MultiLevelUniversityCourseManagementSystem.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem3-MultiLevelUniversityCourseManagementSystem\obj\Debug\net9.0\Problem3-MultiLevelUniversityCourseManagementSystem.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem3-MultiLevelUniversityCourseManagementSystem\obj\Debug\net9.0\Problem3-MultiLevelUniversityCourseManagementSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem3-MultiLevelUniversityCourseManagementSystem\obj\Debug\net9.0\refint\Problem3-MultiLevelUniversityCourseManagementSystem.dll
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem3-MultiLevelUniversityCourseManagementSystem\obj\Debug\net9.0\Problem3-MultiLevelUniversityCourseManagementSystem.pdb
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem3-MultiLevelUniversityCourseManagementSystem\obj\Debug\net9.0\Problem3-MultiLevelUniversityCourseManagementSystem.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem3-MultiLevelUniversityCourseManagementSystem\obj\Debug\net9.0\ref\Problem3-MultiLevelUniversityCourseManagementSystem.dll

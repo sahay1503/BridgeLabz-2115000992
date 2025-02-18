@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem4-PersonalizedMealPlanGenerator\bin\Debug\net9.0\Problem4-PersonalizedMealPlanGenerator.exe
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem4-PersonalizedMealPlanGenerator\bin\Debug\net9.0\Problem4-PersonalizedMealPlanGenerator.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem4-PersonalizedMealPlanGenerator\bin\Debug\net9.0\Problem4-PersonalizedMealPlanGenerator.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem4-PersonalizedMealPlanGenerator\bin\Debug\net9.0\Problem4-PersonalizedMealPlanGenerator.dll
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem4-PersonalizedMealPlanGenerator\bin\Debug\net9.0\Problem4-PersonalizedMealPlanGenerator.pdb
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem4-PersonalizedMealPlanGenerator\obj\Debug\net9.0\Problem4-PersonalizedMealPlanGenerator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem4-PersonalizedMealPlanGenerator\obj\Debug\net9.0\Problem4-PersonalizedMealPlanGenerator.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem4-PersonalizedMealPlanGenerator\obj\Debug\net9.0\Problem4-PersonalizedMealPlanGenerator.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem4-PersonalizedMealPlanGenerator\obj\Debug\net9.0\Problem4-PersonalizedMealPlanGenerator.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem4-PersonalizedMealPlanGenerator\obj\Debug\net9.0\Problem4-PersonalizedMealPlanGenerator.dll
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem4-PersonalizedMealPlanGenerator\obj\Debug\net9.0\refint\Problem4-PersonalizedMealPlanGenerator.dll
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem4-PersonalizedMealPlanGenerator\obj\Debug\net9.0\Problem4-PersonalizedMealPlanGenerator.pdb
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem4-PersonalizedMealPlanGenerator\obj\Debug\net9.0\Problem4-PersonalizedMealPlanGenerator.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-18Feb2025\Problem4-PersonalizedMealPlanGenerator\obj\Debug\net9.0\ref\Problem4-PersonalizedMealPlanGenerator.dll
