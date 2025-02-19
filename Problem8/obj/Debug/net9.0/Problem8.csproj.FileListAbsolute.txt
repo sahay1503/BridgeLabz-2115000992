@@ -1,0 +1,14 @@
+F:\Capg- TRAINING\C# Programmes\feature-19Feb2025\Problem8\bin\Debug\net9.0\Problem8.exe
+F:\Capg- TRAINING\C# Programmes\feature-19Feb2025\Problem8\bin\Debug\net9.0\Problem8.deps.json
+F:\Capg- TRAINING\C# Programmes\feature-19Feb2025\Problem8\bin\Debug\net9.0\Problem8.runtimeconfig.json
+F:\Capg- TRAINING\C# Programmes\feature-19Feb2025\Problem8\bin\Debug\net9.0\Problem8.dll
+F:\Capg- TRAINING\C# Programmes\feature-19Feb2025\Problem8\bin\Debug\net9.0\Problem8.pdb
+F:\Capg- TRAINING\C# Programmes\feature-19Feb2025\Problem8\obj\Debug\net9.0\Problem8.GeneratedMSBuildEditorConfig.editorconfig
+F:\Capg- TRAINING\C# Programmes\feature-19Feb2025\Problem8\obj\Debug\net9.0\Problem8.AssemblyInfoInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-19Feb2025\Problem8\obj\Debug\net9.0\Problem8.AssemblyInfo.cs
+F:\Capg- TRAINING\C# Programmes\feature-19Feb2025\Problem8\obj\Debug\net9.0\Problem8.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-19Feb2025\Problem8\obj\Debug\net9.0\Problem8.dll
+F:\Capg- TRAINING\C# Programmes\feature-19Feb2025\Problem8\obj\Debug\net9.0\refint\Problem8.dll
+F:\Capg- TRAINING\C# Programmes\feature-19Feb2025\Problem8\obj\Debug\net9.0\Problem8.pdb
+F:\Capg- TRAINING\C# Programmes\feature-19Feb2025\Problem8\obj\Debug\net9.0\Problem8.genruntimeconfig.cache
+F:\Capg- TRAINING\C# Programmes\feature-19Feb2025\Problem8\obj\Debug\net9.0\ref\Problem8.dll
