@@ -135,3 +135,8 @@
 * Read About Types of parameters in Generics and in and out covariance.
 * Solved Smart warehouse management system based on Assignment.
 
+## Task 28: DATE: 19-02-2025
+* Read About Collection framework and heirarchy of collection frameork
+* Read About List, Set, Queue and deque, Map interface and Dictionary and SortedDictionary.
+* Solved problems of List interface based on Assignment.
+
