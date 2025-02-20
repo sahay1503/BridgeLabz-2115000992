@@ -140,3 +140,7 @@
 * Read About List, Set, Queue and deque, Map interface and Dictionary and SortedDictionary.
 * Solved problems of List interface based on Assignment.
 
+## Task 29: DATE: 20-02-2025
+* Read About C# I/O Streams and types of File Streams.
+* Read About File Streams,Object Streams,Buffered Streams, ByteArray Streams and reader and writer.
+* Solved problems of C# Streams based on Assignment.
