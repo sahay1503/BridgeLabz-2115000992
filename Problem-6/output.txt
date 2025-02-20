@@ -1,0 +1,4 @@
+﻿hello, this is a sample text file.
+it contains some uppercase letters.
+c# is a powerful programming language.
+
