@@ -1,0 +1,5 @@
+apple banana apple orange banana apple  
+dog cat dog mouse cat dog  
+hello world hello world hello  
+good morning good evening good night  
+error success error warning error  
