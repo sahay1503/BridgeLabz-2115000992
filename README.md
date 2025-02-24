@@ -145,7 +145,13 @@
 * Read About File Streams,Object Streams,Buffered Streams, ByteArray Streams and reader and writer.
 * Solved problems of C# Streams based on Assignment.
 
-## Task 29: DATE: 20-02-2025
+## Task 30: DATE: 21-02-2025
 * Read About C# Exceptions and types of Exceptions.
 * Read About how to handle Exceptions using try catch and finally.
 * Solved problems  based on  C# Exceptions Assignment.
+
+## Task 31: DATE: 22-02-2025
+* Read About C# Regular Expressions.
+* Read About NUnit Framework.
+* Solved problems  based on  C# Regex Assignment.
+
