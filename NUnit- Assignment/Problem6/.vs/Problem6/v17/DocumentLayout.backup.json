@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\Problem6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE90FF6C-ECD8-4B9C-91FC-5FC287582E39}|..\\Problem6Test\\Problem6Test.csproj|f:\\capg- training\\c# programmes\\feature-22feb2025\\nunit- assignment\\problem6test\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1318079E-6079-47FE-9316-580F422ADF39}|Problem6.csproj|f:\\capg- training\\c# programmes\\feature-22feb2025\\nunit- assignment\\problem6\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1318079E-6079-47FE-9316-580F422ADF39}|Problem6.csproj|solutionrelative:mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1318079E-6079-47FE-9316-580F422ADF39}|Problem6.csproj|f:\\capg- training\\c# programmes\\feature-22feb2025\\nunit- assignment\\problem6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1318079E-6079-47FE-9316-580F422ADF39}|Problem6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\Problem6Test\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Problem6Test\\Class1.cs",
+              "ToolTip": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\Problem6Test\\Class1.cs",
+              "RelativeToolTip": "..\\Problem6Test\\Class1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:33:35.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathOperations.cs",
+              "DocumentMoniker": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\Problem6\\MathOperations.cs",
+              "RelativeDocumentMoniker": "MathOperations.cs",
+              "ToolTip": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\Problem6\\MathOperations.cs",
+              "RelativeToolTip": "MathOperations.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:32:05.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\Problem6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\Problem6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:31:26.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

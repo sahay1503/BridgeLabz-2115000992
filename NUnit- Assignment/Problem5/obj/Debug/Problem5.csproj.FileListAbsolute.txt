@@ -1,0 +1,7 @@
+F:\Capg- TRAINING\C# Programmes\feature-22Feb2025\NUnit- Assignment\Problem5\bin\Debug\Problem5.exe.config
+F:\Capg- TRAINING\C# Programmes\feature-22Feb2025\NUnit- Assignment\Problem5\bin\Debug\Problem5.exe
+F:\Capg- TRAINING\C# Programmes\feature-22Feb2025\NUnit- Assignment\Problem5\bin\Debug\Problem5.pdb
+F:\Capg- TRAINING\C# Programmes\feature-22Feb2025\NUnit- Assignment\Problem5\obj\Debug\Problem5.csproj.AssemblyReference.cache
+F:\Capg- TRAINING\C# Programmes\feature-22Feb2025\NUnit- Assignment\Problem5\obj\Debug\Problem5.csproj.CoreCompileInputs.cache
+F:\Capg- TRAINING\C# Programmes\feature-22Feb2025\NUnit- Assignment\Problem5\obj\Debug\Problem5.exe
+F:\Capg- TRAINING\C# Programmes\feature-22Feb2025\NUnit- Assignment\Problem5\obj\Debug\Problem5.pdb
