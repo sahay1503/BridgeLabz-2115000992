@@ -1,0 +1,8 @@
+{
+  "email": "amit@gmail.com",
+  "address": {
+    "city": "Bareilly",
+    "zip": "243302"
+  },
+  "skills": ["SQL", "JavaScript"]
+}

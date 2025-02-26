@@ -1,0 +1,20 @@
+[
+  {
+    "Match_Id": 101,
+    "Team1": "Mumbai ***",
+    "Team2": "Chennai *** Kings",
+    "Score_Team1": 0,
+    "Score_Team2": 0,
+    "Winner": "Chennai *** Kings",
+    "Player_Of_Match": "REDACTED"
+  },
+  {
+    "Match_Id": 102,
+    "Team1": "Royal *** Bangalore",
+    "Team2": "Delhi ***",
+    "Score_Team1": 0,
+    "Score_Team2": 0,
+    "Winner": "Royal *** Bangalore",
+    "Player_Of_Match": "REDACTED"
+  }
+]
