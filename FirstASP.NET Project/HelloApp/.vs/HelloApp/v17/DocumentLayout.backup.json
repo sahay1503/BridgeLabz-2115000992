@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\HelloApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{553AC406-DE3A-497B-80D4-5CCACF749646}|HelloApp.csproj|f:\\capg- training\\c# programmes\\feature-22feb2025\\nunit- assignment\\helloapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553AC406-DE3A-497B-80D4-5CCACF749646}|HelloApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553AC406-DE3A-497B-80D4-5CCACF749646}|HelloApp.csproj|f:\\capg- training\\c# programmes\\feature-22feb2025\\nunit- assignment\\helloapp\\helloapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{553AC406-DE3A-497B-80D4-5CCACF749646}|HelloApp.csproj|solutionrelative:helloapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF635C34-4D63-4D94-A709-FE6F4AE2BA08}|..\\BussinessLayer\\BussinessLayer.csproj|f:\\capg- training\\c# programmes\\feature-22feb2025\\nunit- assignment\\bussinesslayer\\service\\registerhello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268F2F19-C860-4EC0-AF9A-C4A1133F88CD}|..\\RepositoryLayer\\RepositoryLayer.csproj|f:\\capg- training\\c# programmes\\feature-22feb2025\\nunit- assignment\\repositorylayer\\service\\registerhellorl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF635C34-4D63-4D94-A709-FE6F4AE2BA08}|..\\BussinessLayer\\BussinessLayer.csproj|f:\\capg- training\\c# programmes\\feature-22feb2025\\nunit- assignment\\bussinesslayer\\bussinesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553AC406-DE3A-497B-80D4-5CCACF749646}|HelloApp.csproj|f:\\capg- training\\c# programmes\\feature-22feb2025\\nunit- assignment\\helloapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553AC406-DE3A-497B-80D4-5CCACF749646}|HelloApp.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553AC406-DE3A-497B-80D4-5CCACF749646}|HelloApp.csproj|f:\\capg- training\\c# programmes\\feature-22feb2025\\nunit- assignment\\helloapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553AC406-DE3A-497B-80D4-5CCACF749646}|HelloApp.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553AC406-DE3A-497B-80D4-5CCACF749646}|HelloApp.csproj|f:\\capg- training\\c# programmes\\feature-22feb2025\\nunit- assignment\\helloapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{553AC406-DE3A-497B-80D4-5CCACF749646}|HelloApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BussinessLayer",
+              "DocumentMoniker": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\BussinessLayer\\BussinessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\BussinessLayer\\BussinessLayer.csproj",
+              "ToolTip": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\BussinessLayer\\BussinessLayer.csproj",
+              "RelativeToolTip": "..\\BussinessLayer\\BussinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T10:37:17.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterHelloRL.cs",
+              "DocumentMoniker": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "ToolTip": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:34:35.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloApp",
+              "DocumentMoniker": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\HelloApp\\HelloApp.csproj",
+              "RelativeDocumentMoniker": "HelloApp.csproj",
+              "ToolTip": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\HelloApp\\HelloApp.csproj",
+              "RelativeToolTip": "HelloApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T09:54:03.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterHello.cs",
+              "DocumentMoniker": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\BussinessLayer\\Service\\RegisterHello.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayer\\Service\\RegisterHello.cs",
+              "ToolTip": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\BussinessLayer\\Service\\RegisterHello.cs",
+              "RelativeToolTip": "..\\BussinessLayer\\Service\\RegisterHello.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:19:18.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\HelloApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\HelloApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:49:28.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\HelloApp\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\HelloApp\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:49:09.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\HelloApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\HelloApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T06:42:44.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\HelloApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\HelloApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:29:44.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
