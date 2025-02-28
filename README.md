@@ -174,3 +174,6 @@
 * Learnt About ASP .Net Core Web API .
 * Made a project HelloApp demonstrating 3-tier Architecture of .Net Core framework.
 
+## Task 36: DATE: 28-02-2025
+* Learnt About Model layer with # layer Architecture.
+* Made a project HelloApp demonstrating 3-tier Architecture with Model Layer of .Net Core framework.
