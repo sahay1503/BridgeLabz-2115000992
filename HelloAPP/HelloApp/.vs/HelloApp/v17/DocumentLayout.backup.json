@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Capg- TRAINING\\C# Programmes\\feature-27Feb2025\\FirstASP.NET Project\\HelloApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{553AC406-DE3A-497B-80D4-5CCACF749646}|HelloApp.csproj|f:\\capg- training\\c# programmes\\feature-27feb2025\\firstasp.net project\\helloapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553AC406-DE3A-497B-80D4-5CCACF749646}|HelloApp.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553AC406-DE3A-497B-80D4-5CCACF749646}|HelloApp.csproj|f:\\capg- training\\c# programmes\\feature-27feb2025\\firstasp.net project\\helloapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{553AC406-DE3A-497B-80D4-5CCACF749646}|HelloApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553AC406-DE3A-497B-80D4-5CCACF749646}|HelloApp.csproj|f:\\capg- training\\c# programmes\\feature-27feb2025\\firstasp.net project\\helloapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553AC406-DE3A-497B-80D4-5CCACF749646}|HelloApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF635C34-4D63-4D94-A709-FE6F4AE2BA08}|..\\BussinessLayer\\BussinessLayer.csproj|f:\\capg- training\\c# programmes\\feature-27feb2025\\firstasp.net project\\bussinesslayer\\service\\registerhello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268F2F19-C860-4EC0-AF9A-C4A1133F88CD}|..\\RepositoryLayer\\RepositoryLayer.csproj|f:\\capg- training\\c# programmes\\feature-27feb2025\\firstasp.net project\\repositorylayer\\service\\registerhellorl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9FC276-512A-47BC-9B3A-E44A46480E22}|..\\ModelLayer\\ModelLayer.csproj|f:\\capg- training\\c# programmes\\feature-27feb2025\\firstasp.net project\\modellayer\\dto\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9FC276-512A-47BC-9B3A-E44A46480E22}|..\\ModelLayer\\ModelLayer.csproj|f:\\capg- training\\c# programmes\\feature-27feb2025\\firstasp.net project\\modellayer\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553AC406-DE3A-497B-80D4-5CCACF749646}|HelloApp.csproj|f:\\capg- training\\c# programmes\\feature-27feb2025\\firstasp.net project\\helloapp\\helloapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{553AC406-DE3A-497B-80D4-5CCACF749646}|HelloApp.csproj|solutionrelative:helloapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268F2F19-C860-4EC0-AF9A-C4A1133F88CD}|..\\RepositoryLayer\\RepositoryLayer.csproj|f:\\capg- training\\c# programmes\\feature-27feb2025\\firstasp.net project\\repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553AC406-DE3A-497B-80D4-5CCACF749646}|HelloApp.csproj|f:\\capg- training\\c# programmes\\feature-27feb2025\\firstasp.net project\\helloapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553AC406-DE3A-497B-80D4-5CCACF749646}|HelloApp.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\BussinessLayer\\BussinessLayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterHelloRL.cs",
+              "DocumentMoniker": "F:\\Capg- TRAINING\\C# Programmes\\feature-27Feb2025\\FirstASP.NET Project\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "ToolTip": "F:\\Capg- TRAINING\\C# Programmes\\feature-27Feb2025\\FirstASP.NET Project\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:13:54.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "F:\\Capg- TRAINING\\C# Programmes\\feature-27Feb2025\\FirstASP.NET Project\\ModelLayer\\DTO\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\ResponseModel.cs",
+              "ToolTip": "F:\\Capg- TRAINING\\C# Programmes\\feature-27Feb2025\\FirstASP.NET Project\\ModelLayer\\DTO\\ResponseModel.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:44:00.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "F:\\Capg- TRAINING\\C# Programmes\\feature-27Feb2025\\FirstASP.NET Project\\HelloApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "F:\\Capg- TRAINING\\C# Programmes\\feature-27Feb2025\\FirstASP.NET Project\\HelloApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:29:44.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterHello.cs",
+              "DocumentMoniker": "F:\\Capg- TRAINING\\C# Programmes\\feature-27Feb2025\\FirstASP.NET Project\\BussinessLayer\\Service\\RegisterHello.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayer\\Service\\RegisterHello.cs",
+              "ToolTip": "F:\\Capg- TRAINING\\C# Programmes\\feature-27Feb2025\\FirstASP.NET Project\\BussinessLayer\\Service\\RegisterHello.cs",
+              "RelativeToolTip": "..\\BussinessLayer\\Service\\RegisterHello.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:26:05.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Capg- TRAINING\\C# Programmes\\feature-27Feb2025\\FirstASP.NET Project\\HelloApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Capg- TRAINING\\C# Programmes\\feature-27Feb2025\\FirstASP.NET Project\\HelloApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:49:28.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\Capg- TRAINING\\C# Programmes\\feature-27Feb2025\\FirstASP.NET Project\\HelloApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "F:\\Capg- TRAINING\\C# Programmes\\feature-27Feb2025\\FirstASP.NET Project\\HelloApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T06:42:44.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "F:\\Capg- TRAINING\\C# Programmes\\feature-27Feb2025\\FirstASP.NET Project\\ModelLayer\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\LoginDTO.cs",
+              "ToolTip": "F:\\Capg- TRAINING\\C# Programmes\\feature-27Feb2025\\FirstASP.NET Project\\ModelLayer\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:43:47.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepositoryLayer.csproj",
+              "DocumentMoniker": "F:\\Capg- TRAINING\\C# Programmes\\feature-27Feb2025\\FirstASP.NET Project\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\RepositoryLayer.csproj",
+              "ToolTip": "F:\\Capg- TRAINING\\C# Programmes\\feature-27Feb2025\\FirstASP.NET Project\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeToolTip": "..\\RepositoryLayer\\RepositoryLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T09:29:30.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "F:\\Capg- TRAINING\\C# Programmes\\feature-27Feb2025\\FirstASP.NET Project\\HelloApp\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "F:\\Capg- TRAINING\\C# Programmes\\feature-27Feb2025\\FirstASP.NET Project\\HelloApp\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:49:09.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HelloApp.csproj",
+              "DocumentMoniker": "F:\\Capg- TRAINING\\C# Programmes\\feature-27Feb2025\\FirstASP.NET Project\\HelloApp\\HelloApp.csproj",
+              "RelativeDocumentMoniker": "HelloApp.csproj",
+              "ToolTip": "F:\\Capg- TRAINING\\C# Programmes\\feature-27Feb2025\\FirstASP.NET Project\\HelloApp\\HelloApp.csproj",
+              "RelativeToolTip": "HelloApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T09:54:03.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BussinessLayer.csproj",
+              "DocumentMoniker": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\BussinessLayer\\BussinessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\feature-22Feb2025\\NUnit- Assignment\\BussinessLayer\\BussinessLayer.csproj",
+              "ToolTip": "F:\\Capg- TRAINING\\C# Programmes\\feature-22Feb2025\\NUnit- Assignment\\BussinessLayer\\BussinessLayer.csproj",
+              "RelativeToolTip": "..\\..\\..\\feature-22Feb2025\\NUnit- Assignment\\BussinessLayer\\BussinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T10:37:17.976Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
